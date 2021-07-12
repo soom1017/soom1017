@@ -1,8 +1,8 @@
 ### Studying
-- web: [front-end(html, css, js)](https://github.com/soom1017/web_application), [back-end(django)](https://github.com/HYU-ICEWALL/2021-1-webStudy/tree/main/leesoomin)
+- web: [생활코딩 웹 애플리케이션 만들기](https://github.com/soom1017/web_application), [web 스터디](https://github.com/HYU-ICEWALL/2021-1-webStudy/tree/main/leesoomin), [혼자 django, bootstrap으로 블로그 만드는 중](https://github.com/soom1017/do_it_django_a_to_z)
 - [webhacking](https://webhacking.kr/)
 - ML
-- unity
+- unity: [멘토링 script repo](https://github.com/soom1017/OOPArtsMentoring), [멘토링 gitbook](https://min001017.gitbook.io/unity/)
 
 ### contact
 - email: min001017[@]hanyang.ac.kr
