@@ -3,6 +3,7 @@
 - [webhacking](https://webhacking.kr/)
 - ML
 - unity: [멘토링 script repo](https://github.com/soom1017/OOPArtsMentoring), [멘토링 gitbook](https://min001017.gitbook.io/unity/)
+- app: [안드로이드 앱 프로젝트](https://github.com/dycha0430/Together)
 
 ### contact
 - email: min001017[@]hanyang.ac.kr
