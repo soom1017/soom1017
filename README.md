@@ -1,12 +1,22 @@
-### Studying
-- web: [생활코딩 웹 애플리케이션 만들기](https://github.com/soom1017/web_application), [web 스터디](https://github.com/HYU-ICEWALL/2021-1-webStudy/tree/main/leesoomin), [혼자 django, bootstrap으로 블로그 만드는 중](https://github.com/soom1017/do_it_django_a_to_z)
-- [webhacking](https://webhacking.kr/)
-- ML
-- unity: [멘토링 script repo](https://github.com/soom1017/OOPArtsMentoring), [멘토링 gitbook](https://min001017.gitbook.io/unity/)
-- app: [안드로이드 앱 프로젝트](https://github.com/dycha0430/Together)
+## Hi-! 👋 I'm Soomin Lee, a student in Hanyang Univ. 
+- 🔥 I'm currently learning deep learning algorithms, and mathematics required for ML.
+- 🤟 I love to organize things, so I write my CS study notes on notion on free days.
+- 📫 I'm looking to collaborate on ML projects! Feel free to contact me.
 
-### contact
-- email: min001017[@]hanyang.ac.kr
+<h3 align="center">💭 Tech Stack</h3>
+<p align='center'>
+  <img src='https://img.shields.io/badge/python-black?logo=python&logoColor=blue'></a>
+  <img src='https://img.shields.io/badge/c++-black?logo=C%2B%2B&logoColor=red'></a> </br></br>
+  <img src='https://img.shields.io/badge/flutter-black?logo=flutter&logoColor=blue'></a>
+  <img src='https://img.shields.io/badge/flask-black?logo=flask'></a>
+  <img src='https://img.shields.io/badge/django-black?logo=django&logoColor=grey'></a>
+  <img src='https://img.shields.io/badge/aws-black?logo=amazonaws&logoColor=orange'></a> </br></br>
+  <img src='https://img.shields.io/badge/github-black?logo=github'></a>
+  <img src='https://img.shields.io/badge/gitlab-black?logo=gitlab'></a>
+  <img src='https://img.shields.io/badge/visual studio code-black?logo=visualstudiocode&logoColor=blue'></a>
+</p>
 
-### github status
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soom1017)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">📓 Study Notes</h3>
+<p align="center">
+  <img alt="Custom badge" src="https://img.shields.io/endpoint?label=notion&logo=notion&style=for-the-badge&url=https%3A%2F%2Fsoomin-study.notion.site%2FStudy-ba11957518214856bcd73faabee5bb3b">
+</p>
