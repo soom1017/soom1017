@@ -17,6 +17,6 @@
 </p>
 
 <h3 align="center">📓 Study Notes</h3>
-<p align="center">
-  <img alt="Custom badge" src="https://img.shields.io/endpoint?label=notion&logo=notion&style=for-the-badge&url=https%3A%2F%2Fsoomin-study.notion.site%2FStudy-ba11957518214856bcd73faabee5bb3b">
+<p align='center'>
+  <a href="https://soomin-study.notion.site/Study-ba11957518214856bcd73faabee5bb3b"><img src='https://img.shields.io/badge/NOTION-E6E6FA?logo=notion&logoColor=black'></a>
 </p>
