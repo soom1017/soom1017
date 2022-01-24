@@ -1,4 +1,4 @@
-## Hi-! 👋 I'm Soomin Lee, a student in Hanyang Univ. 
+## Hi-! 👋 I'm Soomin Lee, CS undergraduate in Hanyang Univ. 
 - 🔥 I'm currently learning deep learning algorithms, and mathematics required for ML.
 - 🤟 I love to organize things, so I write my CS study notes on notion on free days.
 - 📫 I'm looking to collaborate on ML projects! Feel free to contact me.
